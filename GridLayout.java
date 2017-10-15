@@ -2,13 +2,13 @@ import java.awt.Button;
 import java.awt.GridLayout;
 import javax.swing.JFrame;
 
-public class GridLayout extends JFrame {
+public class GridLayoutExample extends JFrame {
 
     public static void main(String[] args) {
         GridLayoutExample a = new GridLayoutExample();
     }
 
-    public GridLayout() {
+    public GridLayoutExample() {
 
         setVisible(true);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
