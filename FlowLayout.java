@@ -2,13 +2,13 @@ import java.awt.Button;
 import java.awt.FlowLayout;
 import javax.swing.JFrame;
 
-public class FlowLayout extends JFrame {
+public class FlowLayoutExample extends JFrame {
 
     public static void main(String[] args) {
         FlowLayoutExample a = new FlowLayoutExample();
     }
 
-    public FlowLayout() {
+    public FlowLayoutExample() {
 
         setVisible(true);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
